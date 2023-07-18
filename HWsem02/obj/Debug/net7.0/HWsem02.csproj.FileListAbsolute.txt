@@ -1,0 +1,15 @@
+D:\GeekBrains\lessonsC#\seminars\HWsem02\bin\Debug\net7.0\HWsem02.exe
+D:\GeekBrains\lessonsC#\seminars\HWsem02\bin\Debug\net7.0\HWsem02.deps.json
+D:\GeekBrains\lessonsC#\seminars\HWsem02\bin\Debug\net7.0\HWsem02.runtimeconfig.json
+D:\GeekBrains\lessonsC#\seminars\HWsem02\bin\Debug\net7.0\HWsem02.dll
+D:\GeekBrains\lessonsC#\seminars\HWsem02\bin\Debug\net7.0\HWsem02.pdb
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.csproj.AssemblyReference.cache
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.AssemblyInfoInputs.cache
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.AssemblyInfo.cs
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.csproj.CoreCompileInputs.cache
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.dll
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\refint\HWsem02.dll
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.pdb
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\HWsem02.genruntimeconfig.cache
+D:\GeekBrains\lessonsC#\seminars\HWsem02\obj\Debug\net7.0\ref\HWsem02.dll
