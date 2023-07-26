@@ -41,18 +41,18 @@ for (int i = 1; i <= n; i++)
 // 12821 -> да
 // 23432 -> да
 
-Console.Write("Введите пятизначное число: ");
-int num1 = Convert.ToInt32(Console.ReadLine());
-int num2 = num1 ;
-int result = 0;
-while(num1 > 0)
-{
-    int var = num1 % 10;
-    res = res * 10 + d;
-    num1 = num1/10;
-}
-if(num2 == res)
-{
-    Console.Write("Число является полидромом");
+// Console.Write("Введите пятизначное число: ");
+// int num1 = Convert.ToInt32(Console.ReadLine());
+// int num2 = num1 ;
+// int result = 0;
+// while(num1 > 0)
+// {
+//     int var = num1 % 10;
+//     res = res * 10 + d;
+//     num1 = num1/10;
+// }
+// if(num2 == res)
+// {
+//     Console.Write("Число является полидромом");
 
-}else Console.Write("Число не является полидромом");
+// }else Console.Write("Число не является полидромом");
